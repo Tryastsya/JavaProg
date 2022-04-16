@@ -53,8 +53,8 @@ public class StringMethodsChirag {
         str3 = "";
         System.out.println("8. Empty: " + str1.isEmpty());
         System.out.println("8. Empty: " + str3.isEmpty());
-        System.out.println("8. Blank: " + str1.isBlank());
-        System.out.println("8. Blank: " + str3.isBlank());
+        //System.out.println("8. Blank: " + str1.isBlank());
+        //System.out.println("8. Blank: " + str3.isBlank());
         System.out.println("===========================================");
 
         // 9. Replace & ReplaceAll

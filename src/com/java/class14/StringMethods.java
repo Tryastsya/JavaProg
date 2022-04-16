@@ -47,7 +47,7 @@ public class StringMethods {
         System.out.println("8.2 "+str1.isEmpty());
         System.out.println("8.3 "+str3.length());
         System.out.println("8.4 "+str3.isEmpty());
-        System.out.println("8.5 "+str1.isBlank()); //Java11 and higher
+        //System.out.println("8.5 "+str1.isBlank()); //Java11 and higher
 
         //9. Replace and ReplaceAll
         str1 = "9 Welcome User";
