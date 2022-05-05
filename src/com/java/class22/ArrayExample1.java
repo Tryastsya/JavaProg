@@ -1,4 +1,4 @@
-package com.java.class23;
+package com.java.class22;
 
 public class ArrayExample1 {
     public static void main(String[] args) {
