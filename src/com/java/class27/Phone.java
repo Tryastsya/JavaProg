@@ -18,7 +18,7 @@ public class Phone {
         System.out.println("Sending text " + text + " to " + phoneNumber + " ");
     }
 
-    void connetToInternet(String connection, String password) {
+    void connectToInternet(String connection, String password) {
         System.out.println("Connecting....");
         System.out.println("Connected! Do not spend more time on facebook :D");
     }
